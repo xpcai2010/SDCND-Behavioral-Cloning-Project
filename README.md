@@ -18,10 +18,10 @@ The goals / steps of this project are the following:
 
 [//]: # (Image References)
 
-[image1]: ./examples/nVIDIA_CNN_model.jpg "Model Visualization"
-[image2]: ./examples/training_dataset_1.jpg "Training Dataset from Udacity"
-[image3]: ./examples/training_dataset_2.jpg "Training Dataset after combining right/left/center images"
-[image4]: ./examples/training_dataset_3.jpg "Final training images"
+[image1]: ./examples/nVIDIA_CNN_model.JPG "Model Visualization"
+[image2]: ./examples/training_dataset_1.JPG "Training Dataset from Udacity"
+[image3]: ./examples/training_dataset_2.JPG "Training Dataset after combining right/left/center images"
+[image4]: ./examples/training_dataset_3.JPG "Final training images"
 [image5]: ./examples/image_crop.JPG "Cropped Image"
 [image6]: ./examples/image_resize.JPG "Resized Image"
 [image7]: ./examples/image_flip.JPG "Flipped Image"
